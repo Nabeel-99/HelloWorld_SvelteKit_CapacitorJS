@@ -1,6 +1,6 @@
-# SvelteKit & Capacitor Js Mobile App Tutorial
+# Svelte & Capacitor Js Mobile App Tutorial
 
-This tutorial guides you through creating a mobile app using **SvelteKit** and **Capacitor Js**. Follow the steps below to set up your app for both Android and iOS.
+This tutorial guides you through creating a mobile app using **Svelte** and **Capacitor Js**. Follow the steps below to set up your app for both Android and iOS.
 
 ## Table of Contents
 
